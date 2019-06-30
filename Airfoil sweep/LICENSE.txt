@@ -1,0 +1,3 @@
+NACA airfoil sweep - OpenSCAD library (https://www.thingiverse.com/thing:900137) by Parkinbot is licensed under the Creative Commons - Attribution - Non-Commercial license.
+http://creativecommons.org/licenses/by-nc/3.0/
+
